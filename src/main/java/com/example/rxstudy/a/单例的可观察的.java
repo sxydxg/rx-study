@@ -1,9 +1,4 @@
-package com.example.rxstudy.a;/**
- * @author dingxigui
- * @date 2020/8/21 0:39
- * @version 1.0
- */
-
+package com.example.rxstudy.a;
 import io.reactivex.Single;
 import io.reactivex.SingleEmitter;
 import io.reactivex.SingleObserver;
